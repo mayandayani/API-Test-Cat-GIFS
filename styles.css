@@ -1,0 +1,29 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+button {
+    font-size: 50px;
+    margin: 5px;
+    padding: 10px;
+}
+
+img {
+    margin: 5px;
+
+}
+
+h1 {
+    border: 2px solid black;
+    text-align: center;
+    font-size: 25px;
+    background-color: blanchedalmond;
+}
